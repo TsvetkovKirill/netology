@@ -13,3 +13,4 @@ class Mentor():
 
 print("Hello World!")
 print("Check")
+print("Fusk off")
