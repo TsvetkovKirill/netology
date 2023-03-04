@@ -10,3 +10,5 @@ class Mentor():
         self.surname = surname
         self.experience = experience
         self.courses_attached = []
+
+print("Hello World!")
