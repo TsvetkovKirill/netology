@@ -11,6 +11,4 @@ class Mentor():
         self.experience = experience
         self.courses_attached = []
 
-print("Hello World!")
-print("Check")
-print("Fusk off")
+
