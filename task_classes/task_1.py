@@ -12,3 +12,4 @@ class Mentor():
         self.courses_attached = []
 
 
+print('check')
