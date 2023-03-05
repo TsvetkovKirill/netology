@@ -6,7 +6,6 @@ class Student:
         self.finished_courses = []
         self.courses_in_progress = []
         self.grades = {}
-
     def avg_grade(self):
         count = 0
         sum = 0
